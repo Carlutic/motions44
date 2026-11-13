@@ -1,0 +1,2362 @@
+[
+  {
+    "name": "Akahitoha",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_1_akahitoha/akahitoha/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/cd445524e0be756e7e5fe44b6e5fb28576c1e028.mp3"
+  },
+  {
+    "name": "琴师 一定要读ReadMe！",
+    "group": "Collection",
+    "modelMotionFile": "collection/0_chinese_songs_readme/_readme_/main.vmd",
+    "partnerMotionFile": "collection/0_chinese_songs_readme/_readme_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/bff6271e057a4656b8e8cb3274fac9cf48d4ffbb.mp3"
+  },
+  {
+    "name": "晓秋月明A字可用",
+    "group": "Collection",
+    "modelMotionFile": "collection/0_chinese_songs_a/_a_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/1ec8ecf33edcb34a49eac48de20b79b3081c6d71.mp3"
+  },
+  {
+    "name": "Silent Scream [motion by Dinara]",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_silent_scream_mo/silent_scream_motion/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_silent_scream_mo/silent_scream_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/0a898b1b127989fa4e464865dc6c5c79a70cda77.mp3"
+  },
+  {
+    "name": "ピアノ×フォルテ×スキャンダル",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_5/_/main_11.vmd",
+    "camMotionFile": "collection/3_japanese_songs_5/_/camera_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/a4c6e183b6c99f2c37df7af56987cfb7668107f8.mp3"
+  },
+  {
+    "name": "nac_HnH",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_nac_hnh/nac_hnh/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_nac_hnh/nac_hnh/camera.vmd"
+  },
+  {
+    "name": "Cafe Latte",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_cafe_latte/cafe_latte/main.vmd"
+  },
+  {
+    "name": "Memories",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_3_memories/memories/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/25ffd52db99313cc9f778e5c7895c61d16152073.mp3"
+  },
+  {
+    "name": "Befall",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_befall/befall/main.vmd",
+    "camMotionFile": "collection/2_western_songs_befall/befall/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/73d88684ab516d5cc217b63146da0608c7d59892.mp3"
+  },
+  {
+    "name": "nac_サディスティックラブ",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_nac/nac_/main_2.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_nac/nac_/camera_2.vmd"
+  },
+  {
+    "name": "nac_ビバハピ",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_nac/nac_/main_3.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_nac/nac_/camera_3.vmd"
+  },
+  {
+    "name": "Perfume_Globalカメラ＆ダンスモーション - スペイン",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_perfume_global/perfume_global_/main_2.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_perfume_global/perfume_global_/camera.vmd"
+  },
+  {
+    "name": "jewel_by_haruhi - T-Pose Jewel",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_3_jewel_by_haruhi/jewel_by_haruhi_t_po/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/28246f0e02768839f9eefb1e93169a9fc005faaf.mp3"
+  },
+  {
+    "name": "中文版极乐净土 动作数据",
+    "group": "Collection",
+    "modelMotionFile": "collection/0_chinese_songs/_/main_2.vmd",
+    "camMotionFile": "collection/0_chinese_songs/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/5f9140c5cd1d7fb923bbc176f6327dfcbbdd5ddb.mp3"
+  },
+  {
+    "name": "How long",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_how_long/how_long/main.vmd",
+    "camMotionFile": "collection/2_western_songs_how_long/how_long/camera.vmd"
+  },
+  {
+    "name": "EP Call On Me - Izumi Shimizu Ver",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_epcom_by_ademar440_ep_/ep_call_on_me_izumi_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/592a1640ade1fea505493ac9caf723c45a245845.mp3"
+  },
+  {
+    "name": "EP Call On Me - Kaat Ver",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_epcom_by_ademar440_ep_/ep_call_on_me_kaat_v/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/592a1640ade1fea505493ac9caf723c45a245845.mp3"
+  },
+  {
+    "name": "SFV春丽vmd - selLoop",
+    "group": "Collection",
+    "modelMotionFile": "collection/5_martial_arts_moves_sfv_vmd/sfv_vmd_selloop/main.vmd"
+  },
+  {
+    "name": "3年A班",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_1_3_a/3_a_/main.vmd",
+    "camMotionFile": "collection/3_japanese_songs_1_3_a/3_a_/camera.vmd"
+  },
+  {
+    "name": "nac_kotoba",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_nac_kotoba/nac_kotoba/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_nac_kotoba/nac_kotoba/camera.vmd"
+  },
+  {
+    "name": "notitleモーション (1+2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_notitle/notitle_1_2_/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_notitle/notitle_1_2_/partner.vmd"
+  },
+  {
+    "name": "nac_恋空予報",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_nac/nac_/main_6.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_nac/nac_/camera_5.vmd"
+  },
+  {
+    "name": "ブリキノダンスモーション (1+2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_1_2_/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018/_1_2_/partner.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_1_2_/camera.vmd"
+  },
+  {
+    "name": "Fortnite Dances by 京桥刹那 - The ROBOT",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_fortnite_dances_by/fortnite_dances_by_t/main.vmd"
+  },
+  {
+    "name": "Rebootモーションデータ - Reboot　ルイスくん（男性モデル用）",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_reboot/reboot_reboot_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_reboot/reboot_/camera.vmd"
+  },
+  {
+    "name": "みんなみっくみくにしてあげる",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_24.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018/_/expression_2.vmd"
+  },
+  {
+    "name": "みんなみっくみくにしてあげる - みんなみっくみくにしてあげる(Lat式)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_lat_/main.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018/_/expression_2.vmd"
+  },
+  {
+    "name": "おじゃま虫_モーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_9.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_/camera_4.vmd"
+  },
+  {
+    "name": "千灯愿-动作-燕扇 (1+2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/0_chinese_songs_mmd/_1_2_/main.vmd",
+    "partnerMotionFile": "collection/0_chinese_songs_mmd/_1_2_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/b92a9f957e6a47a562de49573f9ff7e607d4e91e.mp3"
+  },
+  {
+    "name": "Fortnite Dances by 京桥刹那 - True Heart",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_fortnite_dances_by/fortnite_dances_by_t/main_2.vmd"
+  },
+  {
+    "name": "翻ｾｩ･ﾆ･ﾇ･｣･ﾙ･｢･筰`･ｷ･逾東京テディベア - 東京テディベアモーション(壁なしver)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_ver_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/7dc4a08619db44ab87ec25a89489c06e7537d6bd.mp3"
+  },
+  {
+    "name": "help me - 千早",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_help_me/help_me_/main_7.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_help_me/help_me/camera.vmd"
+  },
+  {
+    "name": "REVOLVER",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_4_revolver/revolver/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/b6c0d68636197d6805a125ea483f71c269e55531.mp3"
+  },
+  {
+    "name": "通常版 (1+2) (2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_happytap/_1_2_/main_4.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_happytap/_1_2_/partner_4.vmd"
+  },
+  {
+    "name": "Run Devil Run - MOTION MIX",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_run_devil_run_mo/run_devil_run_motion/main.vmd"
+  },
+  {
+    "name": "LUVORATORRRRRY!モーション - LUVORATORRRRRY!モーション（Tda式初音ミク・アペンド）",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_3_luvoratorrrrry/luvoratorrrrry_luvor/main.vmd",
+    "expressionMotionFile": "collection/3_japanese_songs_3_luvoratorrrrry/luvoratorrrrry_/expression.vmd"
+  },
+  {
+    "name": "Get Up仌Move両両儌乕僔儑儞",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_get_up_move/get_up_move_/main.vmd"
+  },
+  {
+    "name": "NAC_Bye",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_nac_bye/nac_bye/main.vmd"
+  },
+  {
+    "name": "モンテコア式星熊勇儀",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_marine_dreamin_e/_/main_4.vmd"
+  },
+  {
+    "name": "アイロニ_モーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_5/_/main_3.vmd",
+    "camMotionFile": "collection/3_japanese_songs_5/_/camera.vmd",
+    "expressionMotionFile": "collection/3_japanese_songs_5/_/expression_2.vmd"
+  },
+  {
+    "name": "つみ式金剛型 - 虎視眈々あおい（金剛型）",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_echo/_/main_2.vmd"
+  },
+  {
+    "name": "Ding-Dong儌乕僔儑儞攝晍",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_ding_dong/ding_dong_/main.vmd"
+  },
+  {
+    "name": "Romantic_Loveモーションセット",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_romantic_love/romantic_love_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_romantic_love/romantic_love_/camera.vmd"
+  },
+  {
+    "name": "Romantic_Loveモーションセット - romanticlove-幸",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_romantic_love/romantic_love_romant/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_romantic_love/romantic_love_/camera.vmd"
+  },
+  {
+    "name": "しゃち式日本・しゃち式イギリス・プロイセン - 屨帇峒乆僾儕儞僗乮僾儘僀僙儞乯",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_marine_dreamin_e/_/main_3.vmd"
+  },
+  {
+    "name": "Calc_モーション20160817 - Calc_tda式ミク_音源オリジナル配布用2",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_calc_20160817/calc_20160817_calc_t/main_2.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_calc_20160817/calc_20160817/expression.vmd"
+  },
+  {
+    "name": "Turn Off The Light モーション  24269288",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/main.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/expression.vmd"
+  },
+  {
+    "name": "SMOOTH　CRIMINAL　モーション - 配布SCネル",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_smooth_criminal/smooth_criminal_sc_/main_3.vmd"
+  },
+  {
+    "name": "Romantic_Loveモーションセット - omake-佐",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_romantic_love/romantic_love_omake_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_romantic_love/romantic_love_/camera.vmd"
+  },
+  {
+    "name": "Romantic_Loveモーションセット - romanticlove-佐",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_romantic_love/romantic_love_romant/main_2.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_romantic_love/romantic_love_/camera.vmd"
+  },
+  {
+    "name": "SpringShower (6231)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_springshower/springshower_6231_/main.vmd"
+  },
+  {
+    "name": "HYBRID - HYBRID(KAITO)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_hybrid/hybrid_hybrid_kaito_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_hybrid/hybrid/camera.vmd"
+  },
+  {
+    "name": "恋サーFullモーションセット - 恋愛サーキュレーション（帽子あり）",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_6_full/_full_/main_2.vmd",
+    "camMotionFile": "collection/3_japanese_songs_6_full/_full_/camera.vmd"
+  },
+  {
+    "name": "only my railgun - only my railgun H",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_only_my_railgun_/only_my_railgun_only/main.vmd"
+  },
+  {
+    "name": "drop pop candyモーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_drop_pop_candy/drop_pop_candy_/main.vmd"
+  },
+  {
+    "name": "byba maniacs",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_byba_maniacs/byba_maniacs/main.vmd"
+  },
+  {
+    "name": "交差型版 (5+6)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_happytap/_5_6_/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_happytap/_5_6_/partner.vmd"
+  },
+  {
+    "name": "交差型版 (3+4)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_happytap/_3_4_/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_happytap/_3_4_/partner.vmd"
+  },
+  {
+    "name": "乱躁滅裂ガールモーション - Lat式-お市パート",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_7/_lat_/main_2.vmd",
+    "camMotionFile": "collection/3_japanese_songs_7/_/camera.vmd"
+  },
+  {
+    "name": "交差型版 (1+2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_happytap/_1_2_/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_happytap/_1_2_/partner.vmd"
+  },
+  {
+    "name": "Dangerous - MJ-三条ともみSP",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_dangerous/dangerous_mj_sp/main.vmd"
+  },
+  {
+    "name": "Elect Motion - Yukari",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_elect_motion/elect_motion_yukari/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_elect_motion/elect_motion/camera.vmd"
+  },
+  {
+    "name": "Get Lucky - GetLucky(MP3)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_get_lucky/get_lucky_getlucky_m/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_get_lucky/get_lucky/camera.vmd"
+  },
+  {
+    "name": "Dangerous - MJ-天音カナ",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_dangerous/dangerous_mj_/main_8.vmd"
+  },
+  {
+    "name": "夜咄ディセイブモーション配布用",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_122.vmd"
+  },
+  {
+    "name": "Tda式 China Dress Canary",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_3_mmd_tda_china_/tda_china_dress_cana/main.vmd"
+  },
+  {
+    "name": "OHMYJULIETモーション修正版",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_ohmyjuliet/ohmyjuliet_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_ohmyjuliet/ohmyjuliet_/camera.vmd"
+  },
+  {
+    "name": "4人用",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_4/4_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_4/4_/camera.vmd"
+  },
+  {
+    "name": "4人用 - RIN",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_4/4_rin/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_4/4_/camera.vmd"
+  },
+  {
+    "name": "BlueStarモーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_1_bluestar/bluestar_/main.vmd"
+  },
+  {
+    "name": "ハートアラモードモーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_77.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_/camera_13.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018/_/expression_5.vmd"
+  },
+  {
+    "name": "林檎花火とソーダの海",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_147.vmd"
+  },
+  {
+    "name": "神のまにまに",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_171.vmd"
+  },
+  {
+    "name": "Last Night, Good NightモーションV103 - Last Night, Good Nightあぴミク",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_last_night_good_/last_night_good_nigh/main_3.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_last_night_good_/last_night_good_nigh/camera.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_last_night_good_/last_night_good_nigh/expression.vmd"
+  },
+  {
+    "name": "そばかす式 - リグル　右",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_6/_/main_17.vmd"
+  },
+  {
+    "name": "極楽浄土３人組配布用 - 基本　左（ブーツ用）",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_6/_/main_8.vmd"
+  },
+  {
+    "name": "へな羊式 - へな羊式　霞改二　左",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_6/_/main_30.vmd"
+  },
+  {
+    "name": "自傷無色",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_181.vmd"
+  },
+  {
+    "name": "MrsPumpkinの滑稽な夢モーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mrspumpkin/mrspumpkin_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_mrspumpkin/mrspumpkin_/camera.vmd"
+  },
+  {
+    "name": "そばかす式 - リグル　左",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_6/_/main_22.vmd"
+  },
+  {
+    "name": "アンチグラビティーズ_モーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_36.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_/camera_5.vmd"
+  },
+  {
+    "name": "扱いづらいWhatMakesYouBeautiful (1+2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_whatmakesyoubeau/_whatmakesyoubeautif/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_whatmakesyoubeau/_whatmakesyoubeautif/partner.vmd"
+  },
+  {
+    "name": "いーあるモーションせっと",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_7.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_/camera_3.vmd"
+  },
+  {
+    "name": "Summer_Rain",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_summer_rain/summer_rain/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_summer_rain/summer_rain/camera.vmd"
+  },
+  {
+    "name": "可愛くなりたい",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_117.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_/camera_20.vmd"
+  },
+  {
+    "name": "はるがこないまち (1+2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_5/_1_2_/main.vmd",
+    "partnerMotionFile": "collection/3_japanese_songs_5/_1_2_/partner.vmd",
+    "expressionMotionFile": "collection/3_japanese_songs_5/_1_2_/expression.vmd"
+  },
+  {
+    "name": "ぽんぷ長式夕立時雨春雨 - 夕立",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_3_mmd/_/main_3.vmd"
+  },
+  {
+    "name": "Wonderful! Nippon!",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_wonderful_nippon/wonderful_nippon_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/d50d6831d5a792ca77201944fe58a8033c17b1c4.mp3"
+  },
+  {
+    "name": "hibikase_motion - モーション_ヴェイグ",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_hibikase_motion/hibikase_motion_/main_3.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_hibikase_motion/hibikase_motion/camera.vmd"
+  },
+  {
+    "name": "バラライカ_モーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_79.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018/_/expression_6.vmd"
+  },
+  {
+    "name": "ダブルラリアット_モーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_66.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_/camera_12.vmd"
+  },
+  {
+    "name": "アールビット式射命丸文Ver0.91 - 射命丸　中（ローファー用）",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_6_ver0_91/_ver0_91_/main_4.vmd"
+  },
+  {
+    "name": "極楽浄土３人組配布用 - 基本　中（超ハイヒール用）",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_6/_/main_13.vmd"
+  },
+  {
+    "name": "Only One",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_only_one/only_one/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_only_one/only_one/camera.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_only_one/only_one/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/fbc1981038d5251739f5093afe8a5980a8f3a537.mp3"
+  },
+  {
+    "name": "そばかす式 - アリス　中",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_6/_/main_24.vmd"
+  },
+  {
+    "name": "そばかす式 - リグル　中",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_6/_/main_27.vmd"
+  },
+  {
+    "name": "ハッピートラップモーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_74.vmd"
+  },
+  {
+    "name": "RAINBOWGIRL(REMIX)stylishP",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_rainbowgirl_remi/rainbowgirl_remix_st/main.vmd"
+  },
+  {
+    "name": "RAINBOWGIRL(REMIX)stylishP - RAINBOW GIRL REMIX",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_rainbowgirl_remi/rainbowgirl_remix_st/main_2.vmd"
+  },
+  {
+    "name": "Shake_It_Off - Shake_It_Off_R",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_shake_it_off/shake_it_off_shake_i/main.vmd"
+  },
+  {
+    "name": "UNRAVEL MOTION - Rize Kamishiro",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_unravel_motion/unravel_motion_rize_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_unravel_motion/unravel_motion/camera.vmd"
+  },
+  {
+    "name": "IDモーションセット",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_id/id_/main.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_id/id_/expression.vmd"
+  },
+  {
+    "name": "「Dearest Darling」を踊ってみた【Primatic Labbit】",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_dearest_darling_/_dearest_darling_pri/main.vmd"
+  },
+  {
+    "name": "からくりピエロ",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_10.vmd"
+  },
+  {
+    "name": "MIXAMO BVH转VMD",
+    "group": "Collection",
+    "modelMotionFile": "collection/5_martial_arts_moves_mixamo_bvh_vmd/mixamo_bvh_vmd/main.vmd",
+    "camMotionFile": "collection/5_martial_arts_moves_mixamo_bvh_vmd/mixamo_bvh_vmd/camera.vmd"
+  },
+  {
+    "name": "ストロボナイツ_モーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_63.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_/camera_11.vmd"
+  },
+  {
+    "name": "モザイクロールOKGo版 - OKGOdance(haku)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_okgo/_okgo_okgodance_haku/main.vmd"
+  },
+  {
+    "name": "チャンバラジョニー - イギリス(緑色の服)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_69.vmd"
+  },
+  {
+    "name": "red (frame 0-3810) (5+6)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_triller_motion_r/red_frame_0_3810_5_6/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_triller_motion_r/red_frame_0_3810_5_6/partner.vmd"
+  },
+  {
+    "name": "WhereHaveYouBeenロングモーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_wherehaveyoubeen/wherehaveyoubeen_/main.vmd"
+  },
+  {
+    "name": "red (frame 0-3810) (3+4)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_triller_motion_r/red_frame_0_3810_3_4/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_triller_motion_r/red_frame_0_3810_3_4/partner.vmd"
+  },
+  {
+    "name": "典狱司 动作数据 木木中人",
+    "group": "Collection",
+    "modelMotionFile": "collection/0_chinese_songs/_/main_11.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/d981aedfdb8c88c9d742cc233376e0ef387103ea.mp3"
+  },
+  {
+    "name": "おまけ (1+2) (2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_shady/_1_2_/main_2.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_shady/_1_2_/partner_2.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_shady/_1_2_/camera.vmd"
+  },
+  {
+    "name": "とんとんまーえ",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_16.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018/_/expression.vmd"
+  },
+  {
+    "name": "見えない黒に堕ちていけ配布用",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_186.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_/camera_31.vmd"
+  },
+  {
+    "name": "とんとんまーえ - 左モーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_17.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018/_/expression.vmd"
+  },
+  {
+    "name": "へたれフレンズ！モーション（5フレンズ）更新 - フランスふれんず",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_5/_5_/main_5.vmd"
+  },
+  {
+    "name": "Motion Pack 8 - cry",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_pack_swim/motion_pack_8_cry/main.vmd"
+  },
+  {
+    "name": "Massage RAW (2+2) (2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_pack_9_ma/massage_raw_2_2_/main_2.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_motion_pack_9_ma/massage_raw_2_2_/partner_2.vmd"
+  },
+  {
+    "name": "告白予行練習",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_119.vmd"
+  },
+  {
+    "name": "Motion Pack 2",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_pack_2/motion_pack_2/main.vmd"
+  },
+  {
+    "name": "壮志激昂",
+    "group": "Collection",
+    "modelMotionFile": "collection/0_chinese_songs/_/main_13.vmd",
+    "camMotionFile": "collection/0_chinese_songs/_/camera_9.vmd",
+    "expressionMotionFile": "collection/0_chinese_songs/_/expression_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/58c57c6805acd150e87fdcb3241ae5ee645bc68e.mp3"
+  },
+  {
+    "name": "Automaticモーション - Automaticモーション(みりんさま式石田三成さんでトレス)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_automatic/automatic_automatic_/main.vmd"
+  },
+  {
+    "name": "モザイクロールOKGo版 - OKGOdance(meiko)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_okgo/_okgo_okgodance_meik/main.vmd"
+  },
+  {
+    "name": "Infinity - By MitsuloveChan (1+2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_infinity_by_mits/infinity_by_mitsulov/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_infinity_by_mits/infinity_by_mitsulov/partner.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_infinity_by_mits/infinity_by_mitsulov/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/11d6417571238a3bd5a0e38989f922fba3be71f9.mp3"
+  },
+  {
+    "name": "I Do Love You (My Favorite Motion) - 1",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_a_bunch_of_motio/i_do_love_you_my_fav/main_2.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_a_bunch_of_motio/i_do_love_you_my_fav/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/d33b603d6f161d714d1b74d35979db6d0b06e6a4.mp3"
+  },
+  {
+    "name": "Mary's Puppet Theme Motion + WAV DL",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mary_s_puppet_th/mary_s_puppet_theme_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_mary_s_puppet_th/mary_s_puppet_theme_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/7ce90830dc2dbc8d3d1d5ba26feba7fea98e1452.mp3"
+  },
+  {
+    "name": "袖触れ合うも他生の縁_short+",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_short/_short_/main.vmd"
+  },
+  {
+    "name": "akarigayattekitazo - 指",
+    "group": "Collection",
+    "modelMotionFile": "collection/6_drama_actions_akarigayattekitazo/akarigayattekitazo_/main.vmd",
+    "expressionMotionFile": "collection/6_drama_actions_akarigayattekitazo/akarigayattekitazo/expression.vmd"
+  },
+  {
+    "name": "Not Today [motion by ureshiiiiii]",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_not_today_motion/not_today_motion_by_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_not_today_motion/not_today_motion_by_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/391807f7a71065b2fba212533a1070dbf4004ccf.mp3"
+  },
+  {
+    "name": "【MMD】ごめんね ごめんね_full",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mmd_full/_mmd_full/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_mmd_full/_mmd_full/camera.vmd"
+  },
+  {
+    "name": "おまけ - guu11式黒崎蘭丸",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_short_ver/_guu11_/main.vmd"
+  },
+  {
+    "name": "おまけ - 黒鬼式島左近",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_short_ver/_/main_6.vmd"
+  },
+  {
+    "name": "9. BlackPink - So Hot - rin",
+    "group": "Collection",
+    "modelMotionFile": "collection/1_korean_songs_1_9_blackpink_so_hot/9_blackpink_so_hot_r/main.vmd",
+    "camMotionFile": "collection/1_korean_songs_1_9_blackpink_so_hot/9_blackpink_so_hot_m/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/9b95adb3e9fe8e7000b2248fd7d92c6b1382c603.mp3"
+  },
+  {
+    "name": "nac_onaka - onaka_gumi",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_nac_onaka/nac_onaka_onaka_gumi/main.vmd"
+  },
+  {
+    "name": "Dear cocoa girls - Dearcocoagirls(chibimiku)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_dear_cocoa_girls/dear_cocoa_girls_dea/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_dear_cocoa_girls/dear_cocoa_girls/camera.vmd"
+  },
+  {
+    "name": "公開用モーション - レモネードアイスクリーム",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_201.vmd"
+  },
+  {
+    "name": "はるがこないまち (3)",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_5/_3_/main.vmd",
+    "expressionMotionFile": "collection/3_japanese_songs_5/_1_2_/expression.vmd"
+  },
+  {
+    "name": "Motion - Beauty",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_4_smile_precure_ed_mo/motion_beauty/main.vmd"
+  },
+  {
+    "name": "走る - H40_SO_へっぽこダッシュ_s4000_p20",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_h40_so_s4000_p20/main.vmd"
+  },
+  {
+    "name": "motion_D - aozora_no_rhapsody_motion_b_D",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_7_aozora_no_rhapsody_/motion_d_aozora_no_r/main.vmd"
+  },
+  {
+    "name": "relations (3)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_relations/relations_3_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_relations/relations_1_2_/camera.vmd"
+  },
+  {
+    "name": "Diamonds･筰`･ｷ･逾ｻ･ﾃ･ﾈﾖﾐﾉ偆Diamondsモーションセット中身 - Diamonds火神",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_diamonds_diamond/diamonds_diamonds_di/main.vmd"
+  },
+  {
+    "name": "Tda_miku_ca版",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mmd_tda_miku_ca/tda_miku_ca_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_mmd_tda_miku_ca/tda_miku_ca_/camera.vmd"
+  },
+  {
+    "name": "shots Dance Motion",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_shots_dance_moti/shots_dance_motion/main.vmd"
+  },
+  {
+    "name": "The Zombie Song",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mmd_the_zombie_s/the_zombie_song/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_mmd_the_zombie_s/the_zombie_song/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/d702b694e82d61efab31b9468976b1b7d538169a.mp3"
+  },
+  {
+    "name": "BEN_1chorus",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_ben_1chorus/ben_1chorus/main.vmd"
+  },
+  {
+    "name": "Do What U Want モーションセット",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_do_what_u_want/do_what_u_want_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_do_what_u_want/do_what_u_want_/camera.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_do_what_u_want/do_what_u_want_/expression.vmd"
+  },
+  {
+    "name": "TTモーション - TTモ―ション yoru式舞園さやか",
+    "group": "Collection",
+    "modelMotionFile": "collection/1_korean_songs_3_tt/tt_tt_yoru_/main.vmd",
+    "camMotionFile": "collection/1_korean_songs_3_tt/tt_tt_tda_/camera.vmd"
+  },
+  {
+    "name": "RatherBeモーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_ratherbe/ratherbe_/main.vmd"
+  },
+  {
+    "name": "Circus - circus(うずらぎ式ユミル調整版)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_circus_britney_s/circus_circus_/main.vmd"
+  },
+  {
+    "name": "Sucker",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_sucker/sucker/main.vmd"
+  },
+  {
+    "name": "GirlGoneWild配布用",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_girlgonewild/girlgonewild_/main.vmd"
+  },
+  {
+    "name": "motion - motion march",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_4_smile_ed2_motion/motion_motion_march/main.vmd"
+  },
+  {
+    "name": "motion - motion beauty",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_4_smile_ed2_motion/motion_motion_beauty/main.vmd"
+  },
+  {
+    "name": "great timeモーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_great_time/great_time_/main.vmd"
+  },
+  {
+    "name": "ヒバナ簡易指モーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_2_hibana/_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/a45a450a90365badb167a26895993a59d04b4b82.mp3"
+  },
+  {
+    "name": "Machete RAW (2+3)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_pack_9_ma/machete_raw_2_3_/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_motion_pack_9_ma/machete_raw_2_3_/partner.vmd"
+  },
+  {
+    "name": "吉紀 Daddy(配布用) - daddy 左(1番のみ)ﾀﾞﾝｽﾓｰｼｮﾝ2",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_daddy/_daddy_daddy_1_2/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/3ac4a72b1df168ca9210a43f560a907ea13fa400.mp3"
+  },
+  {
+    "name": "Te Amoモーション20170528",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_te_amo_20170528/te_amo_20170528/main.vmd",
+    "expressionMotionFile": "collection/2_western_songs_te_amo_20170528/te_amo_20170528/expression.vmd"
+  },
+  {
+    "name": "おまけ",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_te_amo_20170528/_/main.vmd",
+    "camMotionFile": "collection/2_western_songs_te_amo_20170528/_/camera.vmd"
+  },
+  {
+    "name": "Te Amoモーション20170528 - ダンスモーションRomano（なち秋良式ロマーノで調整）",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_te_amo_20170528/te_amo_20170528_roma/main.vmd",
+    "expressionMotionFile": "collection/2_western_songs_te_amo_20170528/te_amo_20170528/expression.vmd"
+  },
+  {
+    "name": "Tik Tok - Ke$ha - tik tok",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_tik_tok_ke_ha/tik_tok_ke_ha_tik_to/main.vmd"
+  },
+  {
+    "name": "Motion FUN",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_motion_fun/motion_fun/main.vmd",
+    "camMotionFile": "collection/2_western_songs_motion_fun/motion_fun/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/a295580a48d2cd5284310e4978baf33cba4dc24e.mp3"
+  },
+  {
+    "name": "Forget",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_a_bunch_of_motio/forget/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_a_bunch_of_motio/forget/camera.vmd"
+  },
+  {
+    "name": "red (frame 0-3810) (7)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_triller_motion_r/red_frame_0_3810_7_/main.vmd"
+  },
+  {
+    "name": "SOLO (CookiesXCreamMMD) (1+2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/4_memes_solo_cookiesxcreammmd/solo_cookiesxcreammm/main.vmd",
+    "partnerMotionFile": "collection/4_memes_solo_cookiesxcreammmd/solo_cookiesxcreammm/partner.vmd",
+    "camMotionFile": "collection/4_memes_solo_cookiesxcreammmd/solo_cookiesxcreammm/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/f43273463bc2318a7d60388ef5b3f0b22fb3b70d.mp3"
+  },
+  {
+    "name": "Head",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_head/head/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_head/head/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/13d81cb384b54b0f887da1b69cf4cecc851fef03.mp3"
+  },
+  {
+    "name": "till the world end [motion by nejinejime] - till日本用",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_till_the_world_end_mot/till_the_world_end_m/main_3.vmd",
+    "expressionMotionFile": "collection/2_western_songs_till_the_world_end_mot/till_the_world_end_m/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/3ea99f60eb6c0935581c21d841c5eaa090a24e21.mp3"
+  },
+  {
+    "name": "Good Feeling - Flo Rida - Good Feeling",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_good_feeling_goo/good_feeling_flo_rid/main_2.vmd"
+  },
+  {
+    "name": "don't worry",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_don_t_worry/don_t_worry/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/56de45b6fa986102befdb0f06c6ccdf2ca929f11.mp3"
+  },
+  {
+    "name": "今好きになる。モーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_107.vmd"
+  },
+  {
+    "name": "BabyOneMoreTime - Bomt-アメリカ",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_babyonemoretime/babyonemoretime_bomt/main.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_babyonemoretime/babyonemoretime/expression.vmd"
+  },
+  {
+    "name": "motion - ice",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion/motion_ice/main.vmd"
+  },
+  {
+    "name": "走る - H07_SO_せんとさん走り_s1000_p20",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_h07_so_s1000_p20/main.vmd"
+  },
+  {
+    "name": "初音ミクの消失モーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_113.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_/camera_19.vmd"
+  },
+  {
+    "name": "Screamモーション - Screamモーション：中央(みりんさま式石田三成さんでトレス)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_scream/scream_scream_/main.vmd"
+  },
+  {
+    "name": "No Tears Left to Cry",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_no_tears_left_to_cry/no_tears_left_to_cry/main.vmd"
+  },
+  {
+    "name": "スキップ - S07_SO_オープンスキップ_s1500_p28",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_s07_so_s1500_p28/main.vmd"
+  },
+  {
+    "name": "Break Free",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_break_free/break_free/main.vmd"
+  },
+  {
+    "name": "Let's Go配布用モーション - Let's Goモーション(L)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_let_s_go/let_s_go_let_s_go_l_/main.vmd"
+  },
+  {
+    "name": "Come Alive [motion]",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_come_alive_motio/come_alive_motion_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_come_alive_motio/come_alive_motion_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/1dd7898a40a820e875735da67b88263dc11e59a9.mp3"
+  },
+  {
+    "name": "BEEP BEEP IM A SHEEP",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_beep_beep_im_a_sheep/beep_beep_im_a_sheep/main.vmd",
+    "camMotionFile": "collection/2_western_songs_beep_beep_im_a_sheep/beep_beep_im_a_sheep/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/d58b416834eaa6a590fa6932396a2c9cbb51af35.mp3"
+  },
+  {
+    "name": "歩く - A55_SO_前けり歩き_s550_p36_n",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_a55_so_s550_p36_n/main.vmd"
+  },
+  {
+    "name": "Shady配布用 - 2-1.Shady_us",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_shady/shady_2_1_shady_us/main.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_shady/shady_/expression.vmd"
+  },
+  {
+    "name": "モーション (6)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_ginneko_ginneko/_/main_4.vmd"
+  },
+  {
+    "name": "Motion Pack 2 - Smell yumi",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_pack_2/motion_pack_2_smell_/main.vmd"
+  },
+  {
+    "name": "歩く - A37_SO_らいち歩き_s800_p36",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_a37_so_s800_p36/main.vmd"
+  },
+  {
+    "name": "Bangerz - Bangerz儌乕僔儑儞",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_bangerz/bangerz_bangerz_/main.vmd"
+  },
+  {
+    "name": "MOTION×CAMERA(_down_) (2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mmd_motion_5_mmd/motion_camera_down_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_mmd_motion_5_mmd/motion_camera_down_/camera.vmd"
+  },
+  {
+    "name": "Milkshake - Kelis",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_milkshake_kelis/milkshake_kelis/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_milkshake_kelis/milkshake_kelis/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/ce40e90cfef52dbea1f6b06b77b0f7ced9ce21b1.mp3"
+  },
+  {
+    "name": "Limbo - limbo-A-スペイン",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_limbo/limbo_limbo_a_/main.vmd"
+  },
+  {
+    "name": "Limbo - limbo-A",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_limbo/limbo_limbo_a/main.vmd"
+  },
+  {
+    "name": "BANG BANG - BANG BANG　頭の大きいモデル用目線付",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_bang_bang/bang_bang_bang_bang_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_bang_bang/bang_bang/camera.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_bang_bang/bang_bang/expression.vmd"
+  },
+  {
+    "name": "Scream and Shoutモーション - Scream and Shout 切な顔P式リヴァイ兵長(160)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_scream_and_shout/scream_and_shout_scr/main.vmd"
+  },
+  {
+    "name": "Na Na Trey Songz",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_na_na_trey_songz/na_na_trey_songz/main.vmd"
+  },
+  {
+    "name": "蕊梨 动作数据",
+    "group": "Collection",
+    "modelMotionFile": "collection/0_chinese_songs/_/main_33.vmd",
+    "camMotionFile": "collection/0_chinese_songs/_/camera_12.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/029a54ab2835446eb572235d6e07bc3eda89c561.mp3"
+  },
+  {
+    "name": "Shut Up and Explode [motion]",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_4_shut_up_and_explode/shut_up_and_explode_/main.vmd",
+    "camMotionFile": "collection/3_japanese_songs_4_shut_up_and_explode/shut_up_and_explode_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/7e157e6ad1074f07dfd6df865acae1796de92f6f.mp3"
+  },
+  {
+    "name": "",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_39.vmd"
+  },
+  {
+    "name": "Elephant(Ignite)_配布用",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_elephant_ignite/elephant_ignite_/main.vmd"
+  },
+  {
+    "name": "Clockwork Clown Piano Short ver",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_clockwork_clockw/clockwork_clown_pian/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_clockwork_clockw/clockwork_clown_pian/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/1b07ff9388d929f90f2bf0d273b114cedaa5ab3f.mp3"
+  },
+  {
+    "name": "鬼步舞",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_209.vmd"
+  },
+  {
+    "name": "手指舞-动作数据 by被封印的KUMA",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_by_kuma/_by_kuma/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/71a99e73999e96414f4d7afe2821df2acf774ebe.mp3"
+  },
+  {
+    "name": "motion_Sugar_ソラ_20161112",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_motion_sugar_20161112/motion_sugar_2016111/main.vmd"
+  },
+  {
+    "name": "BLACKPINK - AS IF IT'S YOUR LAST",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_blackpink_as_if_/blackpink_as_if_it_s/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_blackpink_as_if_/blackpink_as_if_it_s/camera.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_blackpink_as_if_/blackpink_as_if_it_s/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/f75031f58f57769d1320e0a21311a9d73e1ef856.mp3"
+  },
+  {
+    "name": "Motions - Ghost scare me",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motions/motions_ghost_scare_/main.vmd"
+  },
+  {
+    "name": "Toxic motion",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_toxic_motion/toxic_motion/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_toxic_motion/toxic_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/10efdb670dc153b8adb6ad9ea82aad072835591d.mp3"
+  },
+  {
+    "name": "歩く - A46_SO_見せつける歩き_s440_p50",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_a46_so_s440_p50/main.vmd"
+  },
+  {
+    "name": "走る - H29_SO_ボロミア全力_s2600_p20",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_h29_so_s2600_p20/main.vmd"
+  },
+  {
+    "name": "Mind {by KerryOZ}",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mind_by_kerryoz/mind_by_kerryoz_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_mind_by_kerryoz/mind_by_kerryoz_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/875c4a7847828f05803b5e7d568d220bf2fea190.mp3"
+  },
+  {
+    "name": "キメラ_short",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mmd_short_full_s/_short/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_mmd_short_full_s/_short/camera.vmd"
+  },
+  {
+    "name": "Kiss of Death [motion by Moriida]",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_kiss_of_death_mo/kiss_of_death_motion/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_kiss_of_death_mo/kiss_of_death_motion/camera.vmd"
+  },
+  {
+    "name": "FirstKiss!",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_firstkiss/firstkiss_/main.vmd"
+  },
+  {
+    "name": "JoJo - Crazy Noisy Bizarre Town [BigYellowAlien]",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_3_jojo_crazy_noisy_bi/jojo_crazy_noisy_biz/main.vmd",
+    "camMotionFile": "collection/3_japanese_songs_3_jojo_crazy_noisy_bi/jojo_crazy_noisy_biz/camera.vmd"
+  },
+  {
+    "name": "motion_bush_play_by_kefast_by_kefast-dcnc9k6",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_bush_play/motion_bush_play_by_/main.vmd"
+  },
+  {
+    "name": "Rugrats Theory",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_rugrats_theory/rugrats_theory/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_rugrats_theory/rugrats_theory/camera.vmd"
+  },
+  {
+    "name": "Love Never Felt So Good",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_love_never_felt_/love_never_felt_so_g/main.vmd"
+  },
+  {
+    "name": "5pm",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_5pm/5pm/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_5pm/5pm/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/25097f8c13c01ffc064b62a7c367aa9de138dfdc.mp3"
+  },
+  {
+    "name": "sugar",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_sugar/sugar/main.vmd"
+  },
+  {
+    "name": "BathTube Motions",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_pack_5_pa/bathtube_motions/main.vmd"
+  },
+  {
+    "name": "スキップ - S11_SO_がに股スキップA_s850_p30",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_s11_so_a_s850_p30/main.vmd"
+  },
+  {
+    "name": "Skibidi {by KerryOZ}",
+    "group": "Collection",
+    "modelMotionFile": "collection/4_memes_skibidi_by_kerryoz/skibidi_by_kerryoz_/main.vmd",
+    "camMotionFile": "collection/4_memes_skibidi_by_kerryoz/skibidi_by_kerryoz_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/a1f503b4c8cb82fa6421a6fc32bbde631b23d251.mp3"
+  },
+  {
+    "name": "What Makes You Beautiful - WMYB-A",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_what_makes_you_b/what_makes_you_beaut/main_2.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_what_makes_you_b/what_makes_you_beaut/expression.vmd"
+  },
+  {
+    "name": "HERO歩き - 鏑木・T・虎徹",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_hero/hero_t_/main.vmd"
+  },
+  {
+    "name": "What Makes You Beautiful - WMYB-B",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_what_makes_you_b/what_makes_you_beaut/main_3.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_what_makes_you_b/what_makes_you_beaut/expression.vmd"
+  },
+  {
+    "name": "Motion Pack 8 - look kaito",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_pack_swim/motion_pack_8_look_k/main.vmd"
+  },
+  {
+    "name": "Carousel",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_carousel/carousel/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_carousel/carousel/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/e27c82d334331313f242291a857d076efa325495.mp3"
+  },
+  {
+    "name": "女の子の撮影モーション(撮影会編)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves/_/main_14.vmd"
+  },
+  {
+    "name": "Motion pack 1 - Im strong see",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_pack_1/motion_pack_1_im_str/main.vmd"
+  },
+  {
+    "name": "parts (69+70)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_mmd_motion_100walks_rev0/parts_69_70_/main.vmd",
+    "partnerMotionFile": "collection/7_daily_moves_mmd_motion_100walks_rev0/parts_69_70_/partner.vmd"
+  },
+  {
+    "name": "コノウタトマレイヒ - コノウタトマレイヒひびき",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_55.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_/camera_9.vmd"
+  },
+  {
+    "name": "20140926_ClothesOff - clothes off_標準身長用",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_20140926_clothes/20140926_clothesoff_/main.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_20140926_clothes/20140926_clothesoff/expression.vmd"
+  },
+  {
+    "name": "Say So Motion by Angelic Whispers",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_say_so_motion_by_angel/say_so_motion_by_ang/main.vmd",
+    "camMotionFile": "collection/2_western_songs_say_so_motion_by_angel/say_so_motion_by_ang/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/a94bdfa01ee9bf9cc483e4327f226363b8ef9a93.mp3"
+  },
+  {
+    "name": "Skibidi {by KerryOZ} - back_left",
+    "group": "Collection",
+    "modelMotionFile": "collection/4_memes_skibidi_by_kerryoz/skibidi_by_kerryoz_b/main_2.vmd",
+    "camMotionFile": "collection/4_memes_skibidi_by_kerryoz/skibidi_by_kerryoz_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/a1f503b4c8cb82fa6421a6fc32bbde631b23d251.mp3"
+  },
+  {
+    "name": "If They Knew",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_if_they_knew/if_they_knew/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_if_they_knew/if_they_knew/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/edcb3c536c870b22354a6bdb3f2dba5f24831487.mp3"
+  },
+  {
+    "name": "Say something motion",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_say_something_mo/say_something_motion/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_say_something_mo/say_something_motion/partner.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_say_something_mo/say_something_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/4f208fe3d09ba43aaf4de701c2a26857bc314683.mp3"
+  },
+  {
+    "name": "歩く - A02_IK_普通歩きA_s605_p32",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_a02_ik_a_s605_p32/main.vmd"
+  },
+  {
+    "name": "ループ素材 (3+4)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_timber/_3_4_/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_timber/_3_4_/partner.vmd"
+  },
+  {
+    "name": "Wonderland",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_wonderland/wonderland/main.vmd",
+    "camMotionFile": "collection/7_daily_moves_wonderland/wonderland/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/c5e64e08042b52d5885725fd9bc53d2d50a531d5.mp3"
+  },
+  {
+    "name": "Do you LOVE ME (Motion CookiesXCreamMMD)",
+    "group": "Collection",
+    "modelMotionFile": "collection/4_memes_do_you_love_me_motion_cookiesx/do_you_love_me_motio/main.vmd",
+    "camMotionFile": "collection/4_memes_do_you_love_me_motion_cookiesx/do_you_love_me_motio/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/39be073ac2d3b29dcd9f5f2224cbf76fc4415739.mp3"
+  },
+  {
+    "name": "Doll House",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_doll_house/doll_house/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_doll_house/doll_house/camera.vmd"
+  },
+  {
+    "name": "女の子の撮影モーション(バッグ持ってポーズ編)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves/_/main_4.vmd"
+  },
+  {
+    "name": "As if its your last SHORT (Cookies X Cream)",
+    "group": "Collection",
+    "modelMotionFile": "collection/1_korean_songs_2_as_if_its_your_last_s/as_if_its_your_last_/main.vmd",
+    "camMotionFile": "collection/1_korean_songs_2_as_if_its_your_last_s/as_if_its_your_last_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/ad8d6c99cea061e3fe5c620bd3930921b2f97731.mp3"
+  },
+  {
+    "name": "ループ素材 (2+2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_timber/_2_2_/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_timber/_2_2_/partner.vmd"
+  },
+  {
+    "name": "Shangri-La Motion",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_shangri_la_motio/shangri_la_motion/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_shangri_la_motio/shangri_la_motion/camera.vmd"
+  },
+  {
+    "name": "Papito (left + right)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_papito/papito_left_right_/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_papito/papito_left_right_/partner.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_papito/papito_left_right_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/789900b65c1420d2a4dfb6bd7e6f1ec861509ce4.mp3"
+  },
+  {
+    "name": "Adrien Flirts With Marinette",
+    "group": "Collection",
+    "modelMotionFile": "collection/6_drama_actions_adrien_flirts_with_mar/adrien_flirts_with_m/main.vmd",
+    "camMotionFile": "collection/6_drama_actions_adrien_flirts_with_mar/adrien_flirts_with_m/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/203f305388766cefa96e811b3407b615c1a3f7b0.mp3"
+  },
+  {
+    "name": "Shut Up and Explode [motion] - zack",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_4_shut_up_and_explode/shut_up_and_explode_/main_3.vmd",
+    "camMotionFile": "collection/3_japanese_songs_4_shut_up_and_explode/shut_up_and_explode_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/7e157e6ad1074f07dfd6df865acae1796de92f6f.mp3"
+  },
+  {
+    "name": "Ghost",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_ghost/ghost/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_ghost/ghost/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/b2d918037b47967b8261bccaffe4d2071d616e6a.mp3"
+  },
+  {
+    "name": "Crush song COOKIESXCREAM VER (3)",
+    "group": "Collection",
+    "modelMotionFile": "collection/4_memes_crush_song_cookiesxcream_ver/crush_song_cookiesxc/main_2.vmd",
+    "camMotionFile": "collection/4_memes_crush_song_cookiesxcream_ver/crush_song_cookiesxc/camera.vmd"
+  },
+  {
+    "name": "Speaking Italian - Brain",
+    "group": "Collection",
+    "modelMotionFile": "collection/6_drama_actions_speaking_italian/speaking_italian_bra/main.vmd",
+    "camMotionFile": "collection/6_drama_actions_speaking_italian/speaking_italian/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/7d6c9d9e8309a73e2db22b0c25a876399232fac2.mp3"
+  },
+  {
+    "name": "Circles",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_circles/circles/main.vmd",
+    "camMotionFile": "collection/2_western_songs_circles/circles/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/ae58eb44d546141e97fd8a0af5c74277ac4c3525.mp3"
+  },
+  {
+    "name": "I am the man (4+6)",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_i_am_the_man/i_am_the_man_4_6_/main.vmd",
+    "partnerMotionFile": "collection/2_western_songs_i_am_the_man/i_am_the_man_4_6_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/41f6f2310073b6b41eb16e39efff7aa847f6f7a7.mp3"
+  },
+  {
+    "name": "Confronting a Liar - Marinette - Motion",
+    "group": "Collection",
+    "modelMotionFile": "collection/6_drama_actions_confronting_a_liar/confronting_a_liar_m/main.vmd",
+    "camMotionFile": "collection/6_drama_actions_confronting_a_liar/confronting_a_liar/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/4a0b01c895033d0b68b6945f7c4df85d74ce52f0.mp3"
+  },
+  {
+    "name": "Machete RAW (2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_pack_9_ma/machete_raw_2_/main.vmd"
+  },
+  {
+    "name": "Someone - By MitsuloveChan",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_someone_by_mitsu/someone_by_mitsulove/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_someone_by_mitsu/someone_by_mitsulove/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/9d632277394f407a72566d9eacef197773939441.mp3"
+  },
+  {
+    "name": "走る - H42_SO_泣き走りA_s3500_p20",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_h42_so_a_s3500_p20/main.vmd"
+  },
+  {
+    "name": "歩く - A08_IK_疲れた歩き_s400_p40",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_a08_ik_s400_p40/main.vmd"
+  },
+  {
+    "name": "ループ素材 (1+1)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_timber/_1_1_/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_timber/_1_1_/partner.vmd"
+  },
+  {
+    "name": "3.パターンC (3+4)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_c/3_c_3_4_/main.vmd",
+    "partnerMotionFile": "collection/7_daily_moves_3_c/3_c_3_4_/partner.vmd"
+  },
+  {
+    "name": "モーション (1+2) (2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_2020/_1_2_/main_2.vmd",
+    "partnerMotionFile": "collection/7_daily_moves_2020/_1_2_/partner_2.vmd"
+  },
+  {
+    "name": "歩く - A06_IK_頭手歩きA_s597_p36",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_a06_ik_a_s597_p36/main.vmd"
+  },
+  {
+    "name": "Shape of you Remix by Mii",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_shape_of_you_rem/shape_of_you_remix_b/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_shape_of_you_rem/shape_of_you_remix_b/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/642a2f82fcf4e29da636abd3186215f1f2717d7d.mp3"
+  },
+  {
+    "name": "身！下！(动作配布) - 小",
+    "group": "Collection",
+    "modelMotionFile": "collection/4_memes/_/main_5.vmd",
+    "expressionMotionFile": "collection/4_memes/_/expression.vmd"
+  },
+  {
+    "name": "Cold Skin",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_cold_skin/cold_skin/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_cold_skin/cold_skin/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/952cce696682c5b54153594287a938d68510d453.mp3"
+  },
+  {
+    "name": "歩く - A26_SO_重量歩き_s400_p84",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_a26_so_s400_p84/main.vmd"
+  },
+  {
+    "name": "pikachu_dance",
+    "group": "Collection",
+    "modelMotionFile": "collection/4_memes_pikachu_dance/pikachu_dance/main.vmd"
+  },
+  {
+    "name": "-A Little Death-",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_a_little_death/_a_little_death_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_a_little_death/_a_little_death_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/30afda14527bae5aa649681e544152b08c54c2ea.mp3"
+  },
+  {
+    "name": "Shape Of You By Spade D",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_shape_of_you_by_spade_/shape_of_you_by_spad/main.vmd",
+    "camMotionFile": "collection/2_western_songs_shape_of_you_by_spade_/shape_of_you_by_spad/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/faaea27050b13ea9cbaf8ea3822f6c7f053490b9.mp3"
+  },
+  {
+    "name": "motion - miku_ExpTrn_ExpTrn",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_5_motion/motion_miku_exptrn_e/main.vmd",
+    "camMotionFile": "collection/3_japanese_songs_5_motion/motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/1a151e540d3f611ff0a07d660d9a7d26a115213b.mp3"
+  },
+  {
+    "name": "Ride",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_ride/ride/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/fdbde9f332a387439ec93f6b6f0aa37447e014dc.mp3"
+  },
+  {
+    "name": "女の子の撮影モーション(寝ころび編&四つん這い編) - 四つん這い編",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves/_/main_12.vmd"
+  },
+  {
+    "name": "Aha! by sasikizu",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_aha_by_sasikizu/aha_by_sasikizu/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/ff154beb928a4880d2c93368b34f0a1d02e96093.mp3"
+  },
+  {
+    "name": "brinign_sexy_back_by_hetaliaaustria99-d9pbybk - uke",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_brinign_sexy_bac/brinign_sexy_back_by/main_2.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_brinign_sexy_bac/brinign_sexy_back_by/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/6b0ee35b606f177279879b5e25440539508c1474.mp3"
+  },
+  {
+    "name": "Heathens Motion - Heathens Motion (Dell)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_heathens_motion/heathens_motion_heat/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_heathens_motion/heathens_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/14dc33190956c848ca771ec3996974f6b1716882.mp3"
+  },
+  {
+    "name": "呼啦圈动作 by 京桥刹那 - 呼啦圈动作",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_by/_by_/main_3.vmd",
+    "camMotionFile": "collection/7_daily_moves_by/_by_/camera_2.vmd"
+  },
+  {
+    "name": "parts (63+64)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_mmd_motion_100walks_rev0/parts_63_64_/main.vmd",
+    "partnerMotionFile": "collection/7_daily_moves_mmd_motion_100walks_rev0/parts_63_64_/partner.vmd"
+  },
+  {
+    "name": "parts (1+2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_mmd_motion_100walks_rev0/parts_1_2_/main.vmd",
+    "partnerMotionFile": "collection/7_daily_moves_mmd_motion_100walks_rev0/parts_1_2_/partner.vmd"
+  },
+  {
+    "name": "Vine Speak up (1+2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_vine_speak_up/vine_speak_up_1_2_/main.vmd",
+    "partnerMotionFile": "collection/7_daily_moves_vine_speak_up/vine_speak_up_1_2_/partner.vmd",
+    "camMotionFile": "collection/7_daily_moves_vine_speak_up/vine_speak_up_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/d502e815c222025b9f6869ef0b6d26e5bcf911c2.mp3"
+  },
+  {
+    "name": "parts (83+84)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_mmd_motion_100walks_rev0/parts_83_84_/main.vmd",
+    "partnerMotionFile": "collection/7_daily_moves_mmd_motion_100walks_rev0/parts_83_84_/partner.vmd"
+  },
+  {
+    "name": "女の子の撮影モーション(半回転ジャンプ編) (1+3)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves/_1_3_/main.vmd",
+    "partnerMotionFile": "collection/7_daily_moves/_1_3_/partner.vmd"
+  },
+  {
+    "name": "歩く - A22_SO_普通歩きリン_s750_p28",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_a22_so_s750_p28/main.vmd"
+  },
+  {
+    "name": "tears",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_tears/tears/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_tears/tears/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/26d1787f43d690d857e1d0f2e53d2b46aa9e2956.mp3"
+  },
+  {
+    "name": "papatutuwawa (3)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_papatutuwawa/papatutuwawa_3_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_papatutuwawa/papatutuwawa_1_2_/camera.vmd"
+  },
+  {
+    "name": "Do you LOVE ME (Motion CookiesXCreamMMD) - Abnormal One(For TDA Rin HEIGHT models)",
+    "group": "Collection",
+    "modelMotionFile": "collection/4_memes_do_you_love_me_motion_cookiesx/do_you_love_me_motio/main_4.vmd",
+    "camMotionFile": "collection/4_memes_do_you_love_me_motion_cookiesx/do_you_love_me_motio/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/39be073ac2d3b29dcd9f5f2224cbf76fc4415739.mp3"
+  },
+  {
+    "name": "Shape Of You By Spade D - Len Fixed",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_shape_of_you_by_spade_/shape_of_you_by_spad/main_3.vmd",
+    "camMotionFile": "collection/2_western_songs_shape_of_you_by_spade_/shape_of_you_by_spad/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/faaea27050b13ea9cbaf8ea3822f6c7f053490b9.mp3"
+  },
+  {
+    "name": "Please don't go - MOTION FOR TDA'S",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_please_don_t_go/please_don_t_go_moti/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_please_don_t_go/please_don_t_go/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/487a0a065234ceda1306dab568bb4f9be6fe694b.mp3"
+  },
+  {
+    "name": "Call Of The Ambulance 【フールセ】 - Tda式len",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_call_of_the_ambulance/call_of_the_ambulanc/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/374f8047b7fab08194f8c3226073529265846737.mp3"
+  },
+  {
+    "name": "parts (41+42)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_mmd_motion_100walks_rev0/parts_41_42_/main.vmd",
+    "partnerMotionFile": "collection/7_daily_moves_mmd_motion_100walks_rev0/parts_41_42_/partner.vmd"
+  },
+  {
+    "name": "parts (9+10)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_mmd_motion_100walks_rev0/parts_9_10_/main.vmd",
+    "partnerMotionFile": "collection/7_daily_moves_mmd_motion_100walks_rev0/parts_9_10_/partner.vmd"
+  },
+  {
+    "name": "愛言葉Ⅲモーション（足太ぺんたさんVer）103 - 目線",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_6_ver_103/_ver_103_/main_2.vmd",
+    "expressionMotionFile": "collection/3_japanese_songs_6_ver_103/_ver_103/expression.vmd"
+  },
+  {
+    "name": "SpringShower (203+203)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_springshower/springshower_203_203/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_springshower/springshower_203_203/partner.vmd"
+  },
+  {
+    "name": "Chandelier",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_chandelier/chandelier/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_chandelier/chandelier/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/95d9677cc2bae031762ed2545493825c61260049.mp3"
+  },
+  {
+    "name": "Lets be FRIENDS (CookiesXCream)",
+    "group": "Collection",
+    "modelMotionFile": "collection/6_drama_actions_lets_be_friends_cookie/lets_be_friends_cook/main.vmd",
+    "camMotionFile": "collection/6_drama_actions_lets_be_friends_cookie/lets_be_friends_cook/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/bcae73688333793fe909825ce488b7842db9667d.mp3"
+  },
+  {
+    "name": "女の子の撮影モーション(カメラアピール編) - ミク",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves/_/main_2.vmd",
+    "camMotionFile": "collection/7_daily_moves/_/camera.vmd"
+  },
+  {
+    "name": "大きい子",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_46.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_/camera_7.vmd"
+  },
+  {
+    "name": "Gehenna's Lip v1.0 (0+0)",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_5_gehenna_s_lip_v1_0/gehenna_s_lip_v1_0_0/main.vmd",
+    "partnerMotionFile": "collection/3_japanese_songs_5_gehenna_s_lip_v1_0/gehenna_s_lip_v1_0_0/partner.vmd"
+  },
+  {
+    "name": "女の子の日常モーション(スカート脱衣編) - スカート",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves/_/main_32.vmd"
+  },
+  {
+    "name": "音源：リツカ × 実谷なな",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_3_magunet_ver2/_/main.vmd"
+  },
+  {
+    "name": "Shut Up and Explode [motion] - cloud",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_4_shut_up_and_explode/shut_up_and_explode_/main_5.vmd",
+    "camMotionFile": "collection/3_japanese_songs_4_shut_up_and_explode/shut_up_and_explode_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/7e157e6ad1074f07dfd6df865acae1796de92f6f.mp3"
+  },
+  {
+    "name": "I can fly motions by Jakkaeront (1)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mmd_i_can_fly_mo/i_can_fly_motions_by/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_mmd_i_can_fly_mo/i_can_fly_motions_by/partner.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_mmd_i_can_fly_mo/i_can_fly_motions_by/camera.vmd"
+  },
+  {
+    "name": "YOU KNOW WHAT THAT MAKES ME FEEL LIKE DOIN'",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_dl_that_m/you_know_what_that_m/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_motion_dl_that_m/you_know_what_that_m/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/bd12343a200985c1bab0d6f695722680ca73aabc.mp3"
+  },
+  {
+    "name": "Breath - Motion By Misao mei",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_breath_motion_by/breath_motion_by_mis/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_breath_motion_by/breath_motion_by_mis/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/7260901e98fbf26fb67fe16fdfe820b17cbab3e2.mp3"
+  },
+  {
+    "name": "Bar motions pack (2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_pack_5_pa/bar_motions_pack_2_/main.vmd"
+  },
+  {
+    "name": "歩く - A09_SO_とぼとぼ_s200_p60",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_a09_so_s200_p60/main.vmd"
+  },
+  {
+    "name": "ravenmotion1_by_zazitheangel19-davgzke",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_ravenmotion1_by_/ravenmotion1_by_zazi/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_ravenmotion1_by_/ravenmotion1_by_zazi/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/01ce2d0b3afd6b08388be93bd6ec1f32f927e406.mp3"
+  },
+  {
+    "name": "ARROW(camera＆face)v2",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_arrow_camera_fac/arrow_camera_face_v2/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_arrow_camera_fac/arrow_camera_face_v2/camera.vmd"
+  },
+  {
+    "name": "The Zombie Song - Rin",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mmd_the_zombie_s/the_zombie_song_rin/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_mmd_the_zombie_s/the_zombie_song/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/d702b694e82d61efab31b9468976b1b7d538169a.mp3"
+  },
+  {
+    "name": "純情スカート_リップ",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_6/_/main_43.vmd",
+    "camMotionFile": "collection/3_japanese_songs_6/_/camera_3.vmd"
+  },
+  {
+    "name": "久瀬QTE",
+    "group": "Collection",
+    "modelMotionFile": "collection/5_martial_arts_moves_qte/_qte/main.vmd",
+    "camMotionFile": "collection/5_martial_arts_moves_qte/_qte/camera.vmd"
+  },
+  {
+    "name": "女の子の撮影モーション(Ｗキス編) - 右",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves/_/main_28.vmd"
+  },
+  {
+    "name": "Nico Robin Loop_LGMODS",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_nico_robin_loop_/nico_robin_loop_lgmo/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_nico_robin_loop_/nico_robin_loop_lgmo/camera.vmd"
+  },
+  {
+    "name": "just_be friends - 合_アメリカ_銃",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_just_be_friends/just_be_friends_/main.vmd"
+  },
+  {
+    "name": "ガールズアイテムコレクション2のモーション - 後半_スカート履く",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_2/_2_/main_6.vmd"
+  },
+  {
+    "name": "おまけ (5)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_from_y_to_y/_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_from_y_to_y/_/camera.vmd"
+  },
+  {
+    "name": "導入_殴り倒す",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_20_motions/_/main_81.vmd"
+  },
+  {
+    "name": "青蛇动作数据1.23改 - 青蛇-伞的配套动作",
+    "group": "Collection",
+    "modelMotionFile": "collection/0_chinese_songs_1_23/_1_23_/main_2.vmd",
+    "camMotionFile": "collection/0_chinese_songs_1_23/_1_23_/camera.vmd",
+    "expressionMotionFile": "collection/0_chinese_songs_1_23/_1_23_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/5e4b732d169ec0aa102eb333446f36fb7e630eac.mp3"
+  },
+  {
+    "name": "烤面筋motion",
+    "group": "Collection",
+    "modelMotionFile": "collection/4_memes_motion/_motion/main.vmd",
+    "camMotionFile": "collection/4_memes_motion/_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/481413143298c51483ee7021fd3e2994b7b1933f.mp3"
+  },
+  {
+    "name": "ミュージックミュージック 口型配布",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_91.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018/_/expression_8.vmd"
+  },
+  {
+    "name": "I'm Here For You",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_i_m_here_for_you/i_m_here_for_you/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_i_m_here_for_you/i_m_here_for_you/camera.vmd"
+  },
+  {
+    "name": "On My Own - R",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_on_my_own/on_my_own_r/main.vmd",
+    "camMotionFile": "collection/7_daily_moves_on_my_own/on_my_own/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/1879d5360f67bcb58409e18fc51b6f7f48fae439.mp3"
+  },
+  {
+    "name": "本日のパンチラ振り返り一挙の配布モーション - 脚組みチラ編",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves/_/main_42.vmd"
+  },
+  {
+    "name": "[MMD] RoaCH [Motion by FaunMMD]",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mmd_roach_motion/_mmd_roach_motion_by/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_mmd_roach_motion/_mmd_roach_motion_by/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/d22ab65e6dab47fe646d107f2363ad1cb527f833.mp3"
+  },
+  {
+    "name": "Romantic_Loveモーションセット - ロマンリップ",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_romantic_love/romantic_love_/main_2.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_romantic_love/romantic_love_/camera.vmd"
+  },
+  {
+    "name": "Amen - Echo OwO",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_amen_echo_owo/amen_echo_owo/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_amen_echo_owo/amen_echo_owo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/c344719e8008a8722bb0096c57c215826fdacf51.mp3"
+  },
+  {
+    "name": "歩く - A57_IK_やくざな歩き6歩_s150_p32",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_3_0/_a57_ik_6_s150_p32/main.vmd"
+  },
+  {
+    "name": "MOTION×CAMERA(_up_) - MOTION：Syringe_02",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_mmd_novocaine_motion_cam/motion_camera_up_mot/main_2.vmd",
+    "camMotionFile": "collection/7_daily_moves_mmd_novocaine_motion_cam/motion_camera_up_mot/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/faf55df34b33d76212e7065431ed60bce19244f4.mp3"
+  },
+  {
+    "name": "ガールズアイテムコレクション2のモーション - 後半_スクールベスト紹介",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_2/_2_/main_8.vmd"
+  },
+  {
+    "name": "女の子の日常モーション(転倒編)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves/_/main_36.vmd"
+  },
+  {
+    "name": "もぶvmd (9+10)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_vmd/_vmd_9_10_/main.vmd",
+    "partnerMotionFile": "collection/7_daily_moves_vmd/_vmd_9_10_/partner.vmd"
+  },
+  {
+    "name": "女の子の撮影モーション(ミク10周年編)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_10/_10_/main.vmd",
+    "camMotionFile": "collection/7_daily_moves_10/_10_/camera.vmd"
+  },
+  {
+    "name": "もぶ (7+8)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_2/_7_8_/main.vmd",
+    "partnerMotionFile": "collection/7_daily_moves_2/_7_8_/partner.vmd"
+  },
+  {
+    "name": "Trouble maker动作配布 - 男 f",
+    "group": "Collection",
+    "modelMotionFile": "collection/1_korean_songs_3_trouble_maker/trouble_maker_f/main.vmd",
+    "camMotionFile": "collection/1_korean_songs_3_trouble_maker/trouble_maker_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/6dfd58acc4efded4bcca1c5c90905bd6d6c30a3c.mp3"
+  },
+  {
+    "name": "(who) F Bomb Motions",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_f_bomb_motions_b/_who_f_bomb_motions/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_f_bomb_motions_b/_who_f_bomb_motions/camera.vmd"
+  },
+  {
+    "name": "導入_殴り倒す - 攻_殴り倒す",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_20_motions/_/main_83.vmd"
+  },
+  {
+    "name": "ガールズアイテムコレクション2のモーション - 後半_共通_寝起き_足とつま先IKオフ",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_2/_2_ik_/main_2.vmd"
+  },
+  {
+    "name": "2.走る",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_2/2_/main.vmd"
+  },
+  {
+    "name": "純情スカート_リップ - リップ（標準）",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_6/_/main_44.vmd",
+    "camMotionFile": "collection/3_japanese_songs_6/_/camera_3.vmd"
+  },
+  {
+    "name": "楽屋裏モーション詰め合わせ (1+2) (3)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_1_2_/main_9.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018/_1_2_/partner_9.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_1_2_/camera_3.vmd"
+  },
+  {
+    "name": "モーション (1+2) (3)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_1_2_/main_2.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018/_1_2_/partner_2.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_1_2_/camera_2.vmd"
+  },
+  {
+    "name": "I'll be backリップモーション",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_be_back_i_ll_be_/i_ll_be_back_/main.vmd"
+  },
+  {
+    "name": "ARPK配布 - ARPK リップ",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_arpk/arpk_arpk_/main.vmd"
+  },
+  {
+    "name": "モーション (5)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_5_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_1_2_/camera_2.vmd"
+  },
+  {
+    "name": "ホシアイ・モーション - ホシアイモーション(リップ)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_88.vmd"
+  },
+  {
+    "name": "[MMD] RoaCH [Motion by FaunMMD] - I AIN'T A ROACH CHAN~",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mmd_roach_motion/_mmd_roach_motion_by/main_2.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_mmd_roach_motion/_mmd_roach_motion_by/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/d22ab65e6dab47fe646d107f2363ad1cb527f833.mp3"
+  },
+  {
+    "name": "THEOCEAN_emotion",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_theocean_emotion/theocean_emotion/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/7af33cd29a86ac58df83d3607021b71f03c2f8d4.mp3"
+  },
+  {
+    "name": "Turn Off The Light モーション  24269288 - 目線_0.9",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/main_3.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/expression.vmd"
+  },
+  {
+    "name": "霍元甲 - shan_zi",
+    "group": "Collection",
+    "modelMotionFile": "collection/0_chinese_songs/_shan_zi/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/a0c9ff8d71bb7698a72d88fd8b5f4b7f5b259d06.mp3"
+  },
+  {
+    "name": "楽屋裏モーション詰め合わせ (3)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_3_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_1_2_/camera_3.vmd"
+  },
+  {
+    "name": "Trouble maker动作配布 - 女 f",
+    "group": "Collection",
+    "modelMotionFile": "collection/1_korean_songs_3_trouble_maker/trouble_maker_f/main_2.vmd",
+    "camMotionFile": "collection/1_korean_songs_3_trouble_maker/trouble_maker_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/6dfd58acc4efded4bcca1c5c90905bd6d6c30a3c.mp3"
+  },
+  {
+    "name": "一騎当千カメラ(1～2・5人用) (1+2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_1_2_5/_1_2_5_1_2_/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_1_2_5/_1_2_5_1_2_/partner.vmd"
+  },
+  {
+    "name": "YOU KNOW WHAT THAT MAKES ME FEEL LIKE DOIN' - MookC",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_dl_that_m/you_know_what_that_m/main_2.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_motion_dl_that_m/you_know_what_that_m/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/bd12343a200985c1bab0d6f695722680ca73aabc.mp3"
+  },
+  {
+    "name": "兰若MMD千盏 - 千盏 扇子",
+    "group": "Collection",
+    "modelMotionFile": "collection/0_chinese_songs_mmd/_mmd_/main_2.vmd",
+    "camMotionFile": "collection/0_chinese_songs_mmd/_mmd_/camera.vmd"
+  },
+  {
+    "name": "バク宙・ジーザス・フラッシュキック",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_3_4/_/main_2.vmd"
+  },
+  {
+    "name": "TEENAGE DREAM - BadBoy",
+    "group": "Collection",
+    "modelMotionFile": "collection/2_western_songs_teenage_dream/teenage_dream_badboy/main.vmd",
+    "camMotionFile": "collection/2_western_songs_teenage_dream/teenage_dream/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/83e931efbc89a05b466c1260140dc8146e963047.mp3"
+  },
+  {
+    "name": "ループ_ラッシュ - 攻_ループB",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_20_motions/_b/main.vmd"
+  },
+  {
+    "name": "Dangerous - MJ-GT-R",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_dangerous/dangerous_mj_gt_r/main.vmd"
+  },
+  {
+    "name": "バク宙・ジーザス・フラッシュキック - 2.ジーザスL_(38f_後移動9)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_3_4/_2_l_38f_9_/main_2.vmd"
+  },
+  {
+    "name": "【おまけ】白目無",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_mmd_motion_5_mmd/_/main.vmd"
+  },
+  {
+    "name": "walk002",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_walk002/walk002/main.vmd"
+  },
+  {
+    "name": "おまけ - 兵長用に動きを大きくした目線",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_stimela_20170528/_/main_5.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_stimela_20170528/_/expression.vmd"
+  },
+  {
+    "name": "ループ_後頭部叩きつけ小",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_20_motions/_/main_43.vmd"
+  },
+  {
+    "name": "ktntk-albert-2.1 (left + right)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_ktntk_albert_2_1/ktntk_albert_2_1_lef/main.vmd",
+    "partnerMotionFile": "collection/8_old_stuff_2016_2018_ktntk_albert_2_1/ktntk_albert_2_1_lef/partner.vmd"
+  },
+  {
+    "name": "YOU KNOW WHAT THAT MAKES ME FEEL LIKE DOIN' - MookB",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_dl_that_m/you_know_what_that_m/main_3.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_motion_dl_that_m/you_know_what_that_m/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/bd12343a200985c1bab0d6f695722680ca73aabc.mp3"
+  },
+  {
+    "name": "もぶ (9)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_2/_9_/main.vmd"
+  },
+  {
+    "name": "Dangerous - MJ-ミニパト",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_dangerous/dangerous_mj_/main_14.vmd"
+  },
+  {
+    "name": "TheMonsterカメラ＆リップ",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_themonster_themo/themonster_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_themonster_themo/themonster_/camera.vmd"
+  },
+  {
+    "name": "走り急転回180度＊",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_3_4_180/_180_/main.vmd"
+  },
+  {
+    "name": "1.歩く - 2.歩き11L_うきうき_(37f_前移動20)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_1/1_2_11l_37f_20_/main.vmd"
+  },
+  {
+    "name": "3.ジャンプ落下 - 1.歩きから両足ジャンプ_(34f_前移動35)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_3_3/3_1_34f_35_/main.vmd"
+  },
+  {
+    "name": "ループ_膝落とし - 受_ループ",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_20_motions/_/main_56.vmd"
+  },
+  {
+    "name": "「お茶碗にご飯が無い」动作 - お茶碗(ダミーボーン)",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018/_/main_4.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018/_/camera_2.vmd"
+  },
+  {
+    "name": "GAAAAY - Len",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_gaaaay/gaaaay_len/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_gaaaay/gaaaay/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/6d1a8ebda70ad7f2161db7ad5e34d0630d6aab45.mp3"
+  },
+  {
+    "name": "new thang モーション - 適当リップ",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_new_thang/new_thang_/main.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_new_thang/new_thang_new_thangs/camera.vmd"
+  },
+  {
+    "name": "2.走る - 3.止る_滑り_(25f_前移動30)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_2/2_3_25f_30_/main.vmd"
+  },
+  {
+    "name": "ループ_ビンタ - 受_開始",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_20_motions/_/main_20.vmd"
+  },
+  {
+    "name": "ループ_パンチ速 - 受_開始",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_20_motions/_/main_16.vmd"
+  },
+  {
+    "name": "motions",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_20_motions/motions/main.vmd"
+  },
+  {
+    "name": "ループ_パンチ - 受_開始",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_20_motions/_/main_11.vmd"
+  },
+  {
+    "name": "JBFCamera",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_just_be_friends_/jbfcamera/main.vmd"
+  },
+  {
+    "name": "Te Amo Lip - Sameta Tiramisu sm25466931",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_te_amo_lip_samet/te_amo_lip_sameta_ti/main.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_te_amo_lip_samet/te_amo_lip_sameta_ti/expression.vmd"
+  },
+  {
+    "name": "Te Amo Lip - Sameta Tiramisu sm25466931 - TeAmo MikuCharlie",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_te_amo_lip_samet/te_amo_lip_sameta_ti/main_3.vmd",
+    "expressionMotionFile": "collection/8_old_stuff_2016_2018_te_amo_lip_samet/te_amo_lip_sameta_ti/expression.vmd"
+  },
+  {
+    "name": "motions - 受_待機_失神",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_20_motions/motions_/main.vmd"
+  },
+  {
+    "name": "中文版极乐净土 动作数据 - 扇子",
+    "group": "Collection",
+    "modelMotionFile": "collection/0_chinese_songs/_/main_3.vmd",
+    "camMotionFile": "collection/0_chinese_songs/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/5f9140c5cd1d7fb923bbc176f6327dfcbbdd5ddb.mp3"
+  },
+  {
+    "name": "2.走る - 2.走り40L_ジョギング_(20f_前移動40)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_2/2_2_40l_20f_40_/main.vmd"
+  },
+  {
+    "name": "ELECT - Camera Motion",
+    "group": "Collection",
+    "modelMotionFile": "collection/3_japanese_songs_2_elect_elect_camera_/elect_camera_motion/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions48/audio/98eae6cb189573d14ff87d599af5c3e7b74f066d.mp3"
+  },
+  {
+    "name": "3.ジャンプ落下 - 4.着地_両手つき_(11f_前移動6)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_3_3/3_4_11f_6_/main.vmd"
+  },
+  {
+    "name": "1.歩く - 4.歩きから走りへ_(27f_前移動50)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_1/1_4_27f_50_/main.vmd"
+  },
+  {
+    "name": "3.ジャンプ落下 - 4.着地_クッション_(17f_前移動2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_3_3/3_4_17f_2_/main.vmd"
+  },
+  {
+    "name": "カメラ - ヘタリアしゃち式日本",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_ginneko_ginneko/_/main_2.vmd"
+  },
+  {
+    "name": "リヴァイでIt makes me ill - Talk_to_me",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_it_makes_me_ill/_it_makes_me_ill_tal/main.vmd"
+  },
+  {
+    "name": "1.歩く - 3.止る_(20f_前移動7)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_1/1_3_20f_7_/main.vmd"
+  },
+  {
+    "name": "2.走る - 2.走り60L_腕ヨコ振り_(20f_前移動60)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_2/2_2_60l_20f_60_/main_2.vmd"
+  },
+  {
+    "name": "バク宙・ジーザス・フラッシュキック - 3.止る_L用_腕まえ_(14f_移動なし)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_3_4/_3_l_14f_/main.vmd"
+  },
+  {
+    "name": "上る",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_4_1_y2/_/main.vmd"
+  },
+  {
+    "name": "儕僢僾僔儞僋 - DG僇儊儔",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_ding_dong/_dg_/main.vmd"
+  },
+  {
+    "name": "バク宙・ジーザス・フラッシュキック - 3.止る_L用_(10f_移動なし)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_3_4/_3_l_10f_/main.vmd"
+  },
+  {
+    "name": "モーションセット - 「StargazeR」からめ",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_diva/_stargazer_/main.vmd"
+  },
+  {
+    "name": "YOU KNOW WHAT THAT MAKES ME FEEL LIKE DOIN' - MookA",
+    "group": "Collection",
+    "modelMotionFile": "collection/8_old_stuff_2016_2018_motion_dl_that_m/you_know_what_that_m/main_4.vmd",
+    "camMotionFile": "collection/8_old_stuff_2016_2018_motion_dl_that_m/you_know_what_that_m/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions47/audio/bd12343a200985c1bab0d6f695722680ca73aabc.mp3"
+  },
+  {
+    "name": "ループ_ラッシュ - 攻_開始B",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_20_motions/_b/main_2.vmd"
+  },
+  {
+    "name": "3.ジャンプ落下 - 3.┗落下L_足曲げ姿勢_(25f_前・下移動任意)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_3_3/3_3_l_25f_/main_3.vmd"
+  },
+  {
+    "name": "上る - 4.止る_2y_追加段用_(15f_前移動4_上移動2)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_4_1_y2/_4_2y_15f_4_2_/main.vmd"
+  },
+  {
+    "name": "ループ_後頭部叩きつけ小 - 攻_ループ",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_20_motions/_/main_46.vmd"
+  },
+  {
+    "name": "下りる - 4.止る_3y_追加段用_(15f_前移動3)",
+    "group": "Collection",
+    "modelMotionFile": "collection/7_daily_moves_v1_1_4_2_y3/_4_3y_15f_3_/main_2.vmd"
+  },
+  {
+    "name": "相和歌 - 相和歌的相机数据",
+    "group": "Collection",
+    "modelMotionFile": "collection/0_chinese_songs/_/main_26.vmd"
+  }
+]
