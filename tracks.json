@@ -530,7 +530,8 @@
     "name": "身！下！(动作配布) - 小",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions44/collection/4_memes/_/main_5.vmd",
-    "expressionMotionFile": "https://carlutic.github.io/motions44/collection/4_memes/_/expression.vmd"
+    "expressionMotionFile": "https://carlutic.github.io/motions44/collection/4_memes/_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/1f4a9c85211271bc.mp3"
   },
   {
     "name": "MIXAMO BVH转VMD",
@@ -1083,7 +1084,8 @@
   {
     "name": "byba maniacs",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_byba_maniacs/byba_maniacs/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_byba_maniacs/byba_maniacs/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/470fae838412a8a1.mp3"
   },
   {
     "name": "Cafe Latte",
@@ -1168,12 +1170,14 @@
   {
     "name": "Ding-Dong儌乕僔儑儞攝晍",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_ding_dong/ding_dong_/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_ding_dong/ding_dong_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/bca65c06fa39a3a6.mp3"
   },
   {
     "name": "儕僢僾僔儞僋 - DG僇儊儔",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_ding_dong/_dg_/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_ding_dong/_dg_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/bca65c06fa39a3a6.mp3"
   },
   {
     "name": "モーションセット - 「StargazeR」からめ",
@@ -1207,7 +1211,8 @@
   {
     "name": "FirstKiss!",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_firstkiss/firstkiss_/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_firstkiss/firstkiss_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/37ac958cf7657b31.mp3"
   },
   {
     "name": "おまけ (5)",
@@ -1252,25 +1257,29 @@
     "name": "交差型版 (1+2)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_happytap/_1_2_/main.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_happytap/_1_2_/partner.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_happytap/_1_2_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "交差型版 (3+4)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_happytap/_3_4_/main.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_happytap/_3_4_/partner.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_happytap/_3_4_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "交差型版 (5+6)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_happytap/_5_6_/main.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_happytap/_5_6_/partner.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_happytap/_5_6_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "通常版 (1+2) (2)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_happytap/_1_2_/main_4.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_happytap/_1_2_/partner_4.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_happytap/_1_2_/partner_4.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "Head",
@@ -1428,7 +1437,8 @@
   {
     "name": "only my railgun - only my railgun H",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_only_my_railgun_/only_my_railgun_only/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_only_my_railgun_/only_my_railgun_only/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/17332c8d3a854d4c.mp3"
   },
   {
     "name": "Only One",
@@ -1471,7 +1481,8 @@
     "name": "relations (3)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_relations/relations_3_/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_relations/relations_1_2_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions43/collection/8_old_stuff_2016_2018_relations/relations_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/23e0ee54aa618a0c.mp3"
   },
   {
     "name": "Scream and Shoutモーション - Scream and Shout 切な顔P式リヴァイ兵長(160)",
@@ -1521,13 +1532,15 @@
     "name": "Turn Off The Light モーション  24269288",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/main.vmd",
-    "expressionMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/expression.vmd"
+    "expressionMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/c6451fccb695ff87.mp3"
   },
   {
     "name": "Turn Off The Light モーション  24269288 - 目線_0.9",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/main_3.vmd",
-    "expressionMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/expression.vmd"
+    "expressionMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/c6451fccb695ff87.mp3"
   },
   {
     "name": "UNRAVEL MOTION - Rize Kamishiro",
@@ -1575,7 +1588,8 @@
   {
     "name": "「Dearest Darling」を踊ってみた【Primatic Labbit】",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_dearest_darling_/_dearest_darling_pri/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_dearest_darling_/_dearest_darling_pri/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/829daf5ec81d3f58.mp3"
   },
   {
     "name": "「お茶碗にご飯が無い」动作 - お茶碗(ダミーボーン)",
@@ -1749,13 +1763,15 @@
     "name": "4人用",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_4/4_/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_4/4_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_4/4_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/e2a49dc83d59fa4a.mp3"
   },
   {
     "name": "4人用 - RIN",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_4/4_rin/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_4/4_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_4/4_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/e2a49dc83d59fa4a.mp3"
   },
   {
     "name": "ミュージックミュージック 口型配布",
@@ -2045,7 +2061,8 @@
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_mmd_i_can_fly_mo/i_can_fly_motions_by/main.vmd",
     "partnerMotionFile": "https://carlutic.github.io/motions44/collection/8_old_stuff_2016_2018_mmd_i_can_fly_mo/i_can_fly_motions_by/partner.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_mmd_i_can_fly_mo/i_can_fly_motions_by/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_mmd_i_can_fly_mo/i_can_fly_motions_by/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/6ff85b0e06dd4575.mp3"
   },
   {
     "name": "Motion pack 1 - Im strong see",
